@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1670525283 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\main.cpp
+	<iostream>
+	"figurageometrica.h"
+	"putbox.h"
+	"cutbox.h"
+	"sculptor.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1670524126 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\putbox.cpp
+	"putBox.h"
+
+1670523878 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\putbox.h
+	"figurageometrica.h"
+
+1670523865 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\figurageometrica.h
+	"sculptor.h"
+
+1670523282 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\sculptor.h
+
+1670524290 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\sculptor.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<cmath>
+	<fstream>
+	"sculptor.h"
+
+1670524549 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\cutbox.cpp
+	"cutBox.h"
+
+1670524513 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\cutbox.h
+	"figurageometrica.h"
+
+1671657965 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutbox.cpp
+	"cutBox.h"
+
+1671651644 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutbox.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671664789 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\figurageometrica.h
+	"sculptor.h"
+
+1671666056 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\sculptor.h
+	<string>
+
+1671657973 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putbox.cpp
+	"putBox.h"
+
+1671651636 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putbox.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671663825 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\sculptor.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<cmath>
+	<fstream>
+	"sculptor.h"
+
+1671658047 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\main.cpp
+	"figurageometrica.h"
+	"interpretador.h"
+	"sculptor.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1671652564 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\interpretador.h
+	<vector>
+	<string>
+	"figurageometrica.h"
+	"sculptor.h"
+
+1671664324 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\interpretador.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"putvoxel.h"
+	"cutvoxel.h"
+	"putbox.h"
+	"cutbox.h"
+	"putsphere.h"
+	"cutsphere.h"
+	"putellipsoid.h"
+	"cutellipsoid.h"
+	"figurageometrica.h"
+	"interpretador.h"
+
+1671651857 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\figurageometrica.cpp
+	"figurageometrica.h"
+
+1671662921 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putvoxel.cpp
+	"putvoxel.h"
+	"figurageometrica.h"
+
+1671652929 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putvoxel.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671653076 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutvoxel.cpp
+	"cutvoxel.h"
+
+1671653084 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutvoxel.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671665697 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putsphere.cpp
+	"putsphere.h"
+	<cmath>
+
+1671656682 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putsphere.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671656765 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutsphere.cpp
+	"cutsphere.h"
+	<cmath>
+
+1671656581 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutsphere.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671665667 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putellipsoid.cpp
+	"putellipsoid.h"
+	<cmath>
+
+1671657250 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\putellipsoid.h
+	"sculptor.h"
+	"figurageometrica.h"
+
+1671657600 source:c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutellipsoid.cpp
+	"cutellipsoid.h"
+	<cmath>
+
+1671657573 c:\users\elvan\onedrive\햞ea de trabalho\projeto#u\porjeto2-main\projeto2.0\cutellipsoid.h
+	"sculptor.h"
+	"Figurageometrica.h"
+

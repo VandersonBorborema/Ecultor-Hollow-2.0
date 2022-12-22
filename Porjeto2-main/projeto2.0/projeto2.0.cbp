@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projeto2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projeto2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projeto2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="cutBox.cpp" />
+		<Unit filename="cutBox.h" />
+		<Unit filename="cutEllipsoid.cpp" />
+		<Unit filename="cutEllipsoid.h" />
+		<Unit filename="cutSphere.cpp" />
+		<Unit filename="cutSphere.h" />
+		<Unit filename="cutVoxel.cpp" />
+		<Unit filename="cutVoxel.h" />
+		<Unit filename="figurageometrica.cpp" />
+		<Unit filename="figurageometrica.h" />
+		<Unit filename="interpretador.cpp" />
+		<Unit filename="interpretador.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="putBox.cpp" />
+		<Unit filename="putBox.h" />
+		<Unit filename="putEllipsoid.cpp" />
+		<Unit filename="putEllipsoid.h" />
+		<Unit filename="putSphere.cpp" />
+		<Unit filename="putSphere.h" />
+		<Unit filename="putVoxel.cpp" />
+		<Unit filename="putVoxel.h" />
+		<Unit filename="sculptor.cpp" />
+		<Unit filename="sculptor.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
